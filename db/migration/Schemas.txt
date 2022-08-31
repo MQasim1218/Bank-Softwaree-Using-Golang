@@ -1,0 +1,3 @@
+# Up-script is run to make a forward change to schema.
+
+# Down-script is run to revert the change made by the up-script.
